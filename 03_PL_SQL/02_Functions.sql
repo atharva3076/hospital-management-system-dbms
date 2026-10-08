@@ -250,7 +250,7 @@ DELIMITER ;
 --   SELECT MedicineID, MedicineName, fn_check_medicine_availability(MedicineID, 10) AS Status 
 --   FROM MEDICINE;
 --
--- ============================================================================
+-- ============================================================================ 
 
 DELIMITER //
 
